@@ -1,0 +1,5 @@
+config.py
+corpus/
+__pycache__/
+venv/
+*.pyc
